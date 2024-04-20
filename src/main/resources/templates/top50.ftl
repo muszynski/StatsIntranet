@@ -1,11 +1,3 @@
-<#include "elements/headerScript.ftl" />
-<#include "elements/navbar.ftl" />
-<#include "elements/welcome.ftl" />
-<#include "elements/footer.ftl" />
-<#include "elements/footerScript.ftl" />
-
-
-
 <#import "makro/formControl.ftl" as forms>
 
 <#include "elements/headerScript.ftl" />
